@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://decidelab.github.io/website/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decidelab.github.io/website/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://decidelab.github.io/website/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/post/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/posts/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/post/2020-05-06-slide-baigiang01/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/posts/2020/05/slide-b%C3%A0i-gi%E1%BA%A3ng-1/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decidelab.github.io/website/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://decidelab.github.io/website/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decidelab.github.io/website/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://decidelab.github.io/website/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://decidelab.github.io/website/material/</loc>
+  </url>
+  
+</urlset>

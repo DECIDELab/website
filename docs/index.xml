@@ -1,77 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DECIDE Lab</title>
-    <link>https://github.com/DECIDELab/website/</link>
-    <description>Recent content on DECIDE Lab</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <title>Khoá học Dịch tễ học ứng dụng on DECIDE Lab</title>
+    <link>https://decidelab.github.io/website/</link>
+    <description>Recent content in Khoá học Dịch tễ học ứng dụng on DECIDE Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <copyright>© 2020 — Phùng Khánh Lâm.</copyright>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/DECIDELab/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://decidelab.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://github.com/DECIDELab/website/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <title>Slide Bài giảng 1</title>
+      <link>https://decidelab.github.io/website/post/2020-05-06-slide-baigiang01/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/DECIDELab/website/talk/</guid>
-      <description></description>
+      <guid>https://decidelab.github.io/website/post/2020-05-06-slide-baigiang01/</guid>
+      <description>Link đến slide bài giảng &amp;ldquo;Phân phối thống kê&amp;rdquo;</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://github.com/DECIDELab/website/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Slide Bài giảng 1</title>
+      <link>https://decidelab.github.io/website/posts/2020/05/slide-b%C3%A0i-gi%E1%BA%A3ng-1/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/DECIDELab/website/publication/</guid>
-      <description></description>
+      <guid>https://decidelab.github.io/website/posts/2020/05/slide-b%C3%A0i-gi%E1%BA%A3ng-1/</guid>
+      <description>Link đến slide bài giảng &amp;ldquo;Phân phối thống kê&amp;rdquo;</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://github.com/DECIDELab/website/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/DECIDELab/website/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://github.com/DECIDELab/website/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/DECIDELab/website/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://github.com/DECIDELab/website/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/DECIDELab/website/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
+      <title>Giảng dạy</title>
+      <link>https://decidelab.github.io/website/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid></guid>
-      <description></description>
+      <guid>https://decidelab.github.io/website/teaching/</guid>
+      <description> Dịch tễ học Dịch tễ học cơ bản Dịch tễ học ứng dụng Dịch tễ học thực địa Dịch tễ học lâm sàng Sinh thống kê Xác suất và thống kê y học </description>
     </item>
     
     <item>
-      <title>Courses</title>
-      <link>https://github.com/DECIDELab/website/courses/</link>
+      <title>Giới thiệu</title>
+      <link>https://decidelab.github.io/website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/DECIDELab/website/courses/</guid>
-      <description></description>
+      <guid>https://decidelab.github.io/website/about/</guid>
+      <description> DECIDE Lab Nhóm nghiên cứu về ra quyết định lâm sàng &amp;amp; can thiệp cộng đồng trong
+ Dịch tễ học lâm sàng (nói chung) Bệnh truyền nhiễm nói riêng  </description>
+    </item>
+    
+    <item>
+      <title>Nghiên cứu</title>
+      <link>https://decidelab.github.io/website/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://decidelab.github.io/website/research/</guid>
+      <description> Xây dựng và ứng dụng các mô hình tiên lượng Các yếu tố ảnh hưởng đến việc ra quyết định lâm sàng So sánh các biện pháp can thiệp đối với dịch bệnh truyền nhiễm Hệ thống cảnh báo sớm dịch bệnh truyền nhiễm </description>
+    </item>
+    
+    <item>
+      <title>Tài liệu</title>
+      <link>https://decidelab.github.io/website/material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://decidelab.github.io/website/material/</guid>
+      <description> Sách dịch tễ học cơ bản Sách dịch tễ học lâm sàng Hướng dẫn tranh biện </description>
     </item>
     
   </channel>

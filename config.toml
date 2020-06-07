@@ -1,68 +1,96 @@
-# Configuration of Academia
-# Documentation: https://sourcethemes.com/academic/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-
-# Title of your site
+baseurl = "https://decidelab.github.io/website/"
 title = "DECIDE Lab"
-
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-  baseURL = "https://github.com/DECIDELab/website/"
+languageCode = "en-us"
 publishDir = "docs"
 
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+# Theme to use
+theme = "simple-hugo-theme"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+# Pagination
+paginate = 3
+paginatePath = "page"
 
-############################
-## Advanced options below ##
-############################
+# Google analytics
+# googleAnalytics = ""
 
-# Name of Academia theme folder in `themes/`.
-theme = "Academia-hugo"
+# Copyright
+copyright = "© 2020 — Phùng Khánh Lâm."
 
-# Get last modified date for content from Git?
-enableGitInfo = false
+# Language
+DefaultContentLanguage = "vn"
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
-removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+[languages]
+  [languages.en]
+    weight = 2
+    [languages.en.menu]
+      # Header
+      [[menu.main]]
+        url = "about/"
+        name = "About"
+        weight = 1
+      [[menu.main]]
+        url = "research/"
+        name = "Reseach"
+        weight = 2
+      [[menu.main]]
+        url = "teaching/"
+        name = "Teaching"
+        weight = 3
+      [[menu.main]]
+        url = "material/"
+        name = "Resources"
+        weight = 4        
 
-paginate = 10  # Number of items per page in paginated lists.
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+      # Footer
+      [[menu.footer]]
+        url = "mailto:lampk@ump.edu.vn"
+        name = "Contact"
+        weight = 3
+        
+  [languages.vn]
+    weight = 1
+    [languages.vn.menu]
+      # Header
+      [[menu.main]]
+        url = "about/"
+        name = "Giới thiệu"
+        weight = 1
+      [[menu.main]]
+        url = "research/"
+        name = "Nghiên cứu"
+        weight = 2
+      [[menu.main]]
+        url = "teaching/"
+        name = "Giảng dạy"
+        weight = 3
+      [[menu.main]]
+        url = "material/"
+        name = "Tài liệu"
+        weight = 4
 
-[outputs]
-  home = [ "HTML", "RSS", "JSON" ]
-  section = [ "HTML", "RSS" ]
+      # Footer
+      [[menu.footer]]
+        url = "mailto:lampk@ump.edu.vn"
+        name = "Liên hệ"
+        weight = 3
 
-# Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
-[blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-	angledQuotes = false
-	latexDashes = true
-  extensions = ["backslashLineBreak"]
+# Highlighting
+pygmentsCodefences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsoptions = "linenos=table"
+pygmentsStyle = "vs"
 
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
-
-# Taxonomies.
+# Taxonomies
 [taxonomies]
   tag = "tags"
   category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+
+# Links format
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[params]
+  # Date format (default: Jan 2, 2006)
+  # datefmt  = "Jan 2, 2006"
