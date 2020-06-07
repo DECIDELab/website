@@ -1,5 +1,5 @@
 ---
-title: Khoá học Dịch tễ học ứng dụng
+title: DECIDE Lab
 ---
 
 Đây là website của nhóm nghiên cứu DECIDE.

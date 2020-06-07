@@ -53,25 +53,25 @@ DefaultContentLanguage = "vn"
     weight = 1
     [languages.vn.menu]
       # Header
-      [[menu.main]]
+      [[languages.vn.menu.main]]
         url = "about/"
         name = "Giới thiệu"
         weight = 1
-      [[menu.main]]
+      [[languages.vn.menu.main]]
         url = "research/"
         name = "Nghiên cứu"
         weight = 2
-      [[menu.main]]
+      [[languages.vn.menu.main]]
         url = "teaching/"
         name = "Giảng dạy"
         weight = 3
-      [[menu.main]]
+      [[languages.vn.menu.main]]
         url = "material/"
         name = "Tài liệu"
         weight = 4
 
       # Footer
-      [[menu.footer]]
+      [[languages.vn.menu.footer]]
         url = "mailto:lampk@ump.edu.vn"
         name = "Liên hệ"
         weight = 3
