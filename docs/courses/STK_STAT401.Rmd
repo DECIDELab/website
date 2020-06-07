@@ -1,0 +1,208 @@
+---
+title: "Xác suất và Thống kê y học (Medical statistics)"
+date: " 2020-06-07 (Update: `r Sys.Date()`)"
+output:
+    html_document:
+      theme: cerulean
+      toc: yes
+      toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Thông tin chung về môn học
+
+* Chương trình đào tạo: Cử nhân Điều Dưỡng
+* Ngành đào tạo: Cử nhân Điều Dưỡng
+* Số tín chỉ: 4
+* Số giờ: 60 (30 giờ lý thuyết | 30 giờ thực hành) + 60 giờ tự học
+
+## Mô tả môn học
+
+Nội dung môn học gồm kiến thức và kỹ năng cơ bản về xác suất và thống kê y học: định nghĩa, định lý, công thức tính xác suất và ứng dụng các khái niệm trên trong chẩn đoán và điều trị y khoa. Ngoài ra, ứng dụng các Test thống kê phù hợp vào từng mục tiêu nghiên cứu;sử dụng phần mềm để xử lý các thông tin y học phục vụ công tác thống kê, báo cáo và nghiên cứu khoa học
+
+## Mục tiêu môn học
+
+Sau khi học xong môn học, sinh viên phải đạt được các mục tiêu sau:
+
+* Hiểu được các ứng dụng liên quan đến xác suất- thống kê khi học các môn chuyên ngành;
+* Chọn lựa được phương pháp thống kê mô tả để trình bày số liệu y tế một cách thuyết phục và rõ ràng;
+* Chọn lựa được các kiểm định phù hợp để kiểm tra giả thuyết nghiên cứu khoa học; 
+* Giải thích được các khái niệm thống kê cơ bản được sử dụng trong các báo cáo y tế hoặc bài báo nghiên cứu khoa học.
+
+## Chuẩn đầu ra
+
+### Kiến thức
+
+* Hiểu được các khái niệm xác suất- thống kê y học và ứng dụng trong chuyên ngành Điều Dưỡng.
+* Trình bày được định nghĩa, cách tính, ý nghĩa của các số thống kê mô tả: trung bình, trung vị, tỉ lệ, phân vị.
+* Trình bày được giả định, công thức tính, lí giải được kết quả của các phép kiểm kinh điển trong thống kê như chi bình phương, kiểm định t, kiểm định ANOVA và tương quan hồi quy tuyến tính.
+
+### Kỹ năng
+
+* Chọn lựa được phương pháp thống kê mô tả để trình bày số liệu y tế một cách thuyết phục và rõ ràng.
+* Thực hiện được các kiểm định phù hợp để kiểm tra giả thuyết nghiên cứu khoa học.
+* Giải thích được các khái niệm thống kê cơ bản được sử dụng trong các báo cáo y tế hoặc bài báo nghiên cứu khoa học.
+  
+### Thái độ
+
+* Nhận thức tầm quan trọng của thống kê y học trong việc đưa ra câu trả lời đúng trong nghiên cứu khoa học của ngành Điều Dưỡng.
+* Nhận thức được tầm quan trọng của trung thực khoa học trong phân tích thống kê
+
+## Học liệu
+
+### Sách, giáo trình dạy học
+
+### Tài liệu tham khảo
+
+### Phần mềm
+
+## Hình thức tổ chức dạy học
+
+### Lý thuyết:
+
+* Bài giảng lý thuyết trên giảng đường; bài giảng lí thuyết trực tuyến
+* Tài liệu học tập: bài trình bày powerpoint, sách giáo khoa, tài liệu tham khảo
+
+### Thực hành:
+
+* Thực hành trên phần mềm thống kê  R và máy tính cầm tay
+
+## Nội dung môn học
+
+### Chương 1: Đại cương về xác suất
+
+Số giờ: Lý thuyết: 3 | Thực hành: 3
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Định nghĩa về xác suất và xác suất theo tần số tương đối.
+* Phép thử, kết cục và biến cố đối lập
+* Kết cục đồng khả năng
+* Định nghĩa xác suất chủ quan: tập hợp, mệnh đề và lý thuyết xác suất.
+* Giải tích tổ hợp: giai thừa, hoán vị, chỉnh hợp và tổ hợp
+
+#### Bài giảng
+
+### Chương 2: Xác suất có điều kiện- Định luật nhân xác suất
+
+Số giờ: Lý thuyết: 2 | Thực hành: 2
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Xác suất có điều kiện
+* Ðịnh luật nhân xác suất
+* Công thức cộng xác suất tổng quát 
+* Công thức xác suất toàn phần và định lí Bayes 
+* Biến số ngẫu nhiên- vọng trị
+
+#### Bài giảng
+
+### Chương 3: Ứng dụng xác suất trong chẩn đoán và ra quyết định điều trị                              
+
+Số giờ: Lý thuyết: 3 | Thực hành: 3
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Ðo lường tính đúng (accuracy) của một thủ thuật 
+* Ra quyết định y khoa 
+* Phương pháp dựa theo tỉ lệ
+* Mô hình cây quyết định
+
+#### Bài giảng
+
+### Chương 4: Các phân phối xác suất thường dùng 
+
+Số giờ: Lý thuyết: 2 | Thực hành: 2
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Phân phối thường dùng: Bernoulli, nhị thức, Poisson
+* Phân phối loại liên tục: phân phối chuẩn, phân phối bình thường, student, chi bình phương, Fisher
+
+#### Bài giảng
+
+### Chương 5: Đại cương về thống kê sinh học 
+
+Số giờ: Lý thuyết: 2 | Thực hành: 2
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết    
+
+* Biến số và các loại biến số
+* Phương pháp trình bày số liệu bảng
+* Ðại cương về mẫu và phương pháp lấy mẫu 
+* Biến thiên mẫu nhị thức
+* Khoảng tin cậy 95% của tỉ lệ, trung bình và trình bày khoảng tin cậy
+
+#### Bài giảng
+
+### Chương 6: Nguyên tắc kiểm định so sánh 2 tỉ lệ 
+
+Số giờ: Lý thuyết: 2 | Thực hành: 2    
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Nguyên tắc của kiểm định ý nghĩa
+* Gỉa thuyết không
+* Chọn kiểm định ý nghĩa để so sánh hai tỉ lệ phần trăm
+* Tính chỉ số thống kê đo lường hiệu số quan sát được
+* Tính xác suất của chỉ số thống kê Z
+* Biện luận giá trị của P- sự lạm dụng của test thống kê
+* Khoảng tin cậy 95% của hai hiệu số
+
+#### Bài giảng
+
+### Chương 7:  Nguyên lý kiểm định 
+
+Số giờ: Lý thuyết: 3 | Thực hành: 3
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết        
+
+* Chọn lựa kiểm định phù hợp
+* Kiểm định ý nghĩa, kiểm định giả thuyết 
+
+#### Bài giảng
+   
+### Chương 8:  Kiểm định giả thuyết thống kê cho kết cuộc biến định tính 
+
+Số giờ: Lý thuyết: 3 | Thực hành: 3
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Phép kiểm chi bình phương
+* Kiểm định Fisher’exact
+
+#### Bài giảng
+
+### Chương 9:  Kiểm định giả thuyết thống kê cho kết cuộc biến định lượng
+
+Số giờ: Lý thuyết: 8 | Thực hành: 8
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết
+
+* Phép kiểm t bắt cặp, t không bắt cặp
+* Phân tích phương sai
+* Tương quan và hồi quy tuyến tính
+
+#### Bài giảng
+
+### Chương 10:  Đọc và phê bình một bài báo khoa học
+
+Số giờ: Lý thuyết: 2 | Thực hành: 2
+
+#### Tài liệu tham khảo
+#### Nội dung chi tiết     
+#### Bài giảng
+
+

@@ -1,23 +1,25 @@
 body {
+    font-family: "Helvetica Neue", Helvetica;
     margin: 40px auto;
     max-width: 650px;
     line-height: 1.6;
-    font-size: 18px;
-    color: #444;
+    font-size: 15px;
+    color: #444 ;
     padding: 0 10px;
 }
 
 h1,
 h2,
 h3 {
-    line-height: 1.2
+    line-height: 1.2; 
+    color: #002147;
 }
 
 div.header h1 {
     padding-top: 0;
     padding-bottom: 8px;
     margin-bottom: 24px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 400;
     border-bottom: 1px solid;
 }

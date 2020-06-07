@@ -15,5 +15,7 @@ title: Giảng dạy
 ## Sinh thống kê
 
 ### Xác suất và thống kê y học
+
+* [2020-07, STAT 401: Xác suất và thống kê y học, Khoa Kỹ Thuật, Trường Đại học Quốc tế miền Đông](courses/STK_STAT401.html)
     
     
