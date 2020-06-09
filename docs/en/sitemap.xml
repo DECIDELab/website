@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://decidelab.github.io/website/en/categories/</loc>
+    <loc>https://decidelab.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/categories/"
+                href="https://decidelab.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/categories/"
+                href="https://decidelab.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/en/</loc>
+    <loc>https://decidelab.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/"
+                href="https://decidelab.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/"
+                href="https://decidelab.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/en/tags/</loc>
+    <loc>https://decidelab.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/tags/"
+                href="https://decidelab.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/tags/"
+                href="https://decidelab.github.io/en/tags/"
                 />
   </url>
   

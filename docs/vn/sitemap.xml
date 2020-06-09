@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://decidelab.github.io/website/</loc>
+    <loc>https://decidelab.github.io/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/"
+                href="https://decidelab.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/"
+                href="https://decidelab.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/post/</loc>
+    <loc>https://decidelab.github.io/post/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/posts/</loc>
+    <loc>https://decidelab.github.io/posts/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/post/2020-05-06-slide-baigiang01/</loc>
+    <loc>https://decidelab.github.io/post/2020-05-06-slide-baigiang01/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/posts/2020/05/slide-b%C3%A0i-gi%E1%BA%A3ng-1/</loc>
+    <loc>https://decidelab.github.io/posts/2020/05/slide-b%C3%A0i-gi%E1%BA%A3ng-1/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/categories/</loc>
+    <loc>https://decidelab.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/categories/"
+                href="https://decidelab.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/categories/"
+                href="https://decidelab.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/teaching/</loc>
+    <loc>https://decidelab.github.io/teaching/</loc>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/about/</loc>
+    <loc>https://decidelab.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/research/</loc>
+    <loc>https://decidelab.github.io/research/</loc>
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/tags/</loc>
+    <loc>https://decidelab.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://decidelab.github.io/website/en/tags/"
+                href="https://decidelab.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="https://decidelab.github.io/website/tags/"
+                href="https://decidelab.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://decidelab.github.io/website/material/</loc>
+    <loc>https://decidelab.github.io/material/</loc>
   </url>
   
 </urlset>

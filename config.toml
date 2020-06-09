@@ -1,7 +1,9 @@
-baseurl = "https://decidelab.github.io/website/"
+baseurl = "https://decidelab.github.io/"
 title = "DECIDE Lab"
 languageCode = "en-us"
 publishDir = "docs"
+
+googleAnalytics = "UA-65383716-6"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
